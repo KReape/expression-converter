@@ -1,4 +1,4 @@
-Howdy! Here are some guidelines for my program.
+Howdy! Here are some guidelines for my program:
 
 The program will prompt you for an expression to convert.
 - For a rundown on prefix/postfix/infix notation, feel free to visit http://www.cs.man.ac.uk/~pjj/cs212/fix.html
