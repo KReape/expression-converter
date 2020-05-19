@@ -4,6 +4,7 @@ The program will prompt you for an expression to convert.
 - For a rundown on prefix/postfix/infix notation, feel free to visit http://www.cs.man.ac.uk/~pjj/cs212/fix.html
 - If you are inputting a prefix OR postfix notation, please put parentheses around each individual number/letter (e.g. "(3)(2)(1)+*(2)/")
 - If you are inputting an infix expression, please fully parenthesize the expression (e.g. "((3*(2+1))/2)")
+- Please only use letters or positive integers for the operands
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
